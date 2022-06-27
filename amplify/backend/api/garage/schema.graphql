@@ -1,0 +1,7 @@
+type Vehicle @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  make: String
+  model: String
+  color: String
+  name: String!
+}

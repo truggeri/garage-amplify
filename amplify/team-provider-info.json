@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-garage-staging-13232-authRole",
+      "UnauthRoleArn": "arn:aws:iam::228898025238:role/amplify-garage-staging-13232-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::228898025238:role/amplify-garage-staging-13232-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-garage-staging-13232-deployment",
+      "UnauthRoleName": "amplify-garage-staging-13232-unauthRole",
+      "StackName": "amplify-garage-staging-13232",
+      "StackId": "arn:aws:cloudformation:us-west-2:228898025238:stack/amplify-garage-staging-13232/d9b2af50-f4ef-11ec-909f-065671771de7",
+      "AmplifyAppId": "dve9uwt5i2jto"
+    }
+  }
+}
